@@ -18,59 +18,61 @@ sidebar:
     linkedin: noemie-gagnon
     github: noegagnon
 
-    languages:
-      - idiom: French
-        level: Native
+    langues:
+      - idiom: Francais
+        level: Langue maternelle
 
-      - idiom: English
-        level: Professional
+      - idiom: Anglais
+        level: Courrant
 
-      - idiom: Spanish
-        level: Basic
+      - idiom: Espagnol
+        level: Notions de base
 
-    interests:
-      - item: Hiking
+    intérêts:
+      - item: Randonnée
 
-      - item: Bicycling
+      - item: Vélo
 
-      - item: Theater
+      - item: Voyage
+
+      - item: Théâtre
 
 education:
-    - degree: Certificate in Computer Sciences
-      university: University of Montreal
+    - degree: Certificate en informatique appliquée
+      university: Université de Montréal
       time: 2019 - 2020
       details: |
 
-    - degree: Graduate Studies in Criminology
-      university: University of Montreal
+    - degree: Études de deuxième cycle en criminologie
+      university: Université de Montréal
       time: 2018 - 2019
       details: |
 
-    - degree: Bachelor in Security and Police Studies
-      university: University of Montreal
+    - degree: Baccalauréat en sécurité et études policières
+      university: Université de Montréal
       time: 2015 - 2018
       details: |
 
 
 projects:
-    title: University & Free Code Camp Projects
+    title: Projets d'Université et de Free Code Camp
     intro: >
 
     assignments:
-      - title: Weather Site
+      - title: Site météo
         link: "http://www-ens.iro.umontreal.ca/~gagnonno/ift1144/tp2/pages/tp2.html"
 
-      - title: Form Page
+      - title: Formulaire
         link: "https://codepen.io/noegag/full/PowQEYz"
 
-      - title: Informative Page
+      - title: Page d'informations
         link: "https://codepen.io/noegag/full/QWwaoEE"
 
-      - title: Conversion Calculations and Restaurant Menu
+      - title: Calculs de conversion et menu de restaurant
         link: "https://codepen.io/noegag/full/ExPWVrL"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences
 
     toolset:
       - name: Node.js
