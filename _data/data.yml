@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Noemie Gagnon
+    name: Noémie Gagnon
     tagline: Programmeuse
     avatar: udem.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -38,7 +38,7 @@ sidebar:
       - item: Théâtre
 
 education:
-    - degree: Certificate en informatique appliquée
+    - degree: Certificat en informatique appliquée
       university: Université de Montréal
       time: 2019 - 2020
       details: |
