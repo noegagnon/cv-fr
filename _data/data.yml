@@ -63,6 +63,9 @@ projects:
       - title: Éditeur de photos
         link: "http://noemiegagnon.com/tp1-1015/"
 
+      - title: Calculs de conversion et menu de restaurant
+        link: "https://noemiegagnon.com/tp3-1144/"
+        
       - title: Site météo
         link: "http://www-ens.iro.umontreal.ca/~gagnonno/ift1144/tp2/pages/tp2.html"
 
@@ -72,8 +75,6 @@ projects:
       - title: Page d'informations
         link: "https://codepen.io/noegag/full/QWwaoEE"
 
-      - title: Calculs de conversion et menu de restaurant
-        link: "https://codepen.io/noegag/full/ExPWVrL"
 
 skills:
     title: Compétences
