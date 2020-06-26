@@ -59,6 +59,10 @@ projects:
     intro: >
 
     assignments:
+
+      - title: Éditeur de photos
+        link: "http://noemiegagnon.com/tp1-1015/"
+
       - title: Site météo
         link: "http://www-ens.iro.umontreal.ca/~gagnonno/ift1144/tp2/pages/tp2.html"
 
