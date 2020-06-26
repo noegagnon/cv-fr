@@ -65,7 +65,7 @@ education:
 
 
 projects:
-    title: Projets d'Université & de freeCodeCamp
+    title: Projets d'Universite & de freeCodeCamp
     intro: >
 
     assignments:
@@ -87,7 +87,7 @@ projects:
 
 
 skills:
-    title: Compétences
+    title: Competences
 
     toolset:
       - name: Node.js
