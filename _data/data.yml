@@ -23,7 +23,7 @@ sidebar:
         level: Langue maternelle
 
       - idiom: Anglais
-        level: Courrant
+        level: Courant
 
       - idiom: Espagnol
         level: Notions de base
@@ -65,7 +65,7 @@ education:
 
 
 projects:
-    title: Projets d'Universite & de freeCodeCamp
+    title: Projets d'Université & de freeCodeCamp
     intro: >
 
     assignments:
@@ -87,7 +87,7 @@ projects:
 
 
 skills:
-    title: Competences
+    title: Compétences
 
     toolset:
       - name: Node.js
