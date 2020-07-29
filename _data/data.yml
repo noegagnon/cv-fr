@@ -43,15 +43,13 @@ education:
       time: 2019 - 2020
       details: |
 
-    - degree: Sites Web adaptatifs 
+    - degree: Sites Web adaptatifs et Structures de données et algorithmes JavaScript
       university: freeCodeCamp
       time: 2020
-      details: <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Certificat Responsive Web Design</a>|
-
-    - degree: Structures de données et algorithmes JavaScript
-      university: freeCodeCamp
-      time: 2020
-      details: <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">Certificat JavaScript Algorithms and Data Structures</a>|
+      details: |
+      Certificats:
+        <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Certificat Responsive Web Design</a>
+        <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">Certificat JavaScript Algorithms and Data Structures</a>
 
     - degree: Études de deuxième cycle en criminologie
       university: Université de Montréal
@@ -63,6 +61,15 @@ education:
       time: 2015 - 2018
       details: |
 
+    - degree: Génie civil
+      university: Polytechnique de Montréal
+      time: 2014
+      details: |
+
+    - degree: Sciences de la nature
+      university: Cégep de Saint-Jerome
+      time: 2012-2014
+      details: |
 
 projects:
     title: Projets d'Université & de freeCodeCamp
@@ -85,6 +92,36 @@ projects:
       - title: Page d'informations
         link: "https://codepen.io/noegag/full/QWwaoEE"
 
+experiences:
+    - role: Traductrice
+      time: 2019 - Present
+      company: Airfill
+      details: |
+
+    - role: Transcriptrice
+      time: 2019 - Present
+      company: Appen
+      details: |
+
+    - role: Stagiaire
+      time: 2019
+      company: Gendarmerie Royale du Canada (GRC), Unité mixte d'enquête sur le crime organisé
+      details: |
+
+    - role: Commis à la numérisation
+      time: 2016
+      company: Groupe TACT
+      details: |
+
+    - role: Réceptionniste
+      time: 2015
+      company: Camping Atlantide
+      details: |
+
+    - role: Téléphoniste
+      time: 2013-2014
+      company: Pizzeria Milano
+      details: |
 
 skills:
     title: Compétences
@@ -97,6 +134,9 @@ skills:
         level: 80%
 
       - name: Java
+        level: 70%
+
+      - name: SQL
         level: 70%
 
       - name: C#
