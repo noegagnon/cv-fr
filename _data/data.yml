@@ -44,8 +44,8 @@ education:
       university: Université de Montréal
       time: 2019 - 2020
       details: |
-      Obtention d'une Mention d'excellence
-
+      - Obtaining Mention of Excellence
+      
     - degree: Sites Web adaptatifs et Structures de données et algorithmes JavaScript
       university: freeCodeCamp
       time: 2020
