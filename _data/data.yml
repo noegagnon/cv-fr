@@ -44,7 +44,7 @@ education:
       university: Université de Montréal
       time: 2019 - 2020
       details: |
-      - Obtention d'une Mention d'excellence
+          - Obtention d'une Mention d'excellence
 
     - degree: Sites Web adaptatifs et Structures de données et algorithmes JavaScript
       university: freeCodeCamp
@@ -52,7 +52,6 @@ education:
       details: |
           - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Certificat de Responsive Web Design</a> 
           - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">Certificat de JavaScript Algorithms and Data Structures</a>
-
 
     - degree: Études de deuxième cycle en criminologie
       university: Université de Montréal
