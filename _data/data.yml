@@ -81,6 +81,9 @@ projects:
 
     assignments:
 
+      - title: Générateur de citations
+        link: "https://codepen.io/noegag/full/yLOavVv"
+
       - title: Éditeur de photos
         link: "http://noemiegagnon.com/tp1-1015/"
 
