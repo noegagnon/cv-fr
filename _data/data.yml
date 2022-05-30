@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Noémie Gagnon
-    tagline: Programmeuse
+    tagline: Développeuse
     avatar: udem.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -75,37 +75,17 @@ education:
       time: 2012-2014
       details: |
 
-projects:
-    title: Projets d'Université & de freeCodeCamp
-    intro: >
-
-    assignments:
-
-      - title: Générateur de citations
-        link: "https://codepen.io/noegag/full/yLOavVv"
-
-      - title: Éditeur de photos
-        link: "http://noemiegagnon.com/tp1-1015/"
-
-      - title: Caculatrice (React)
-        link: "https://codepen.io/noegag/full/ZEWKqjB"
-
-      - title: Calculs de conversion et menu de restaurant
-        link: "https://noemiegagnon.com/tp3-1144/"
-        
-      - title: Site météo
-        link: "http://www-ens.iro.umontreal.ca/~gagnonno/ift1144/tp2/pages/tp2.html"
-
-      - title: Formulaire
-        link: "https://codepen.io/noegag/full/PowQEYz"
-
-      - title: Projets APIs et microservices
-        link: "https://codepen.io/noegag/full/xxVOPpq"
-
-      - title: Page d'informations
-        link: "https://codepen.io/noegag/full/QWwaoEE"
-
 experiences:
+    - role: Développeuse full stack
+      time: 2021 -
+      company: Expedibox
+      details: |
+
+    - role: Développeuse full stack
+      time: 2020 - 2021
+      company: Eckinox
+      details: |
+
     - role: Traductrice (anglais au français)
       time: 2019 - Present
       company: Airfill
@@ -136,27 +116,43 @@ experiences:
       company: Pizzeria Milano
       details: |
 
+projects:
+    title: Projets d'Université & de freeCodeCamp
+    intro: >
+
+    assignments:
+
+      - title: Générateur de citations
+        link: "https://codepen.io/noegag/full/yLOavVv"
+
+      - title: Éditeur de photos
+        link: "http://noemiegagnon.com/tp1-1015/"
+
+      - title: Caculatrice (React)
+        link: "https://codepen.io/noegag/full/ZEWKqjB"
+
+      - title: Calculs de conversion et menu de restaurant
+        link: "https://noemiegagnon.com/tp3-1144/"
+        
+      - title: Site météo
+        link: "http://www-ens.iro.umontreal.ca/~gagnonno/ift1144/tp2/pages/tp2.html"
+
+      - title: Formulaire
+        link: "https://codepen.io/noegag/full/PowQEYz"
+
+      - title: Projets APIs et microservices
+        link: "https://codepen.io/noegag/full/xxVOPpq"
+
+      - title: Page d'informations
+        link: "https://codepen.io/noegag/full/QWwaoEE"
+
 skills:
     title: Compétences
 
     toolset:
-      - name: Node.js
-        level: 80%
-
-      - name: Java
-        level: 80%
-
+      - name: Django
+      - name: Symfony
       - name: HTML5 & CSS
-        level: 75%
-
       - name: SQL
-        level: 70%
-
-      - name: C#
-        level: 60%
-
-      - name: C++
-        level: 40%
-
-      - name: Express
-        level: 30%
+      - name: Git
+      - name: Node.js
