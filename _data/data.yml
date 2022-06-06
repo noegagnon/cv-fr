@@ -77,7 +77,7 @@ education:
 
 experiences:
     - role: Développeuse full stack
-      time: 2021 -
+      time: 2021 - 2022
       company: Expedibox
       details: |
 
@@ -150,9 +150,29 @@ skills:
     title: Compétences
 
     toolset:
+      - name: Python
+        level: 90%
+
       - name: Django
+        level: 90%
+
+      - name: PHP
+        level: 80%
+
       - name: Symfony
-      - name: HTML5 & CSS
-      - name: SQL
+        level: 80%
+
       - name: Git
+        level: 90%
+
+      - name: JavaScript
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 70%
+  
+      - name: SQL
+        level: 65%
+
       - name: Node.js
+        level: 60%
