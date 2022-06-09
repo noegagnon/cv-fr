@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: noemiegagnon23@gmail.com
     phone: 450 822 2439
-    website: noemiegagnon.com #do not add http://
+    # website: noemiegagnon.com #do not add http://
     linkedin: noemie-gagnon
     github: noegagnon
 
@@ -47,9 +47,10 @@ education:
           - Obtention d'une Mention d'excellence
 
     - degree: Certificats de cours en ligne
-      university: freeCodeCamp
-      time: 2020
+      university: freeCodeCamp et Udemy
+      time: 2020, 2022
       details: |
+          - <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-cbd88da2-f141-467c-9f1c-ae42b90f62b8.jpg" target="_blank">GIT: Advanced commands</a> 
           - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design</a> 
           - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures</a>
           - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/apis-and-microservices" target="_blank">APIs and Microservices</a>
@@ -121,30 +122,26 @@ projects:
     intro: >
 
     assignments:
-
-      - title: Générateur de citations
-        link: "https://codepen.io/noegag/full/yLOavVv"
-
       - title: Éditeur de photos
         link: "http://noemiegagnon.com/tp1-1015/"
 
       - title: Caculatrice (React)
         link: "https://codepen.io/noegag/full/ZEWKqjB"
+        
+      - title: Projets APIs et microservices
+        link: "https://codepen.io/noegag/full/xxVOPpq"
+
+      - title: Générateur de citations
+        link: "https://codepen.io/noegag/full/yLOavVv"
 
       - title: Calculs de conversion et menu de restaurant
         link: "https://noemiegagnon.com/tp3-1144/"
         
-      - title: Site météo
-        link: "http://www-ens.iro.umontreal.ca/~gagnonno/ift1144/tp2/pages/tp2.html"
+      # - title: Formulaire
+      #   link: "https://codepen.io/noegag/full/PowQEYz"
 
-      - title: Formulaire
-        link: "https://codepen.io/noegag/full/PowQEYz"
-
-      - title: Projets APIs et microservices
-        link: "https://codepen.io/noegag/full/xxVOPpq"
-
-      - title: Page d'informations
-        link: "https://codepen.io/noegag/full/QWwaoEE"
+      # - title: Page d'informations
+      #   link: "https://codepen.io/noegag/full/QWwaoEE"
 
 skills:
     title: Compétences
