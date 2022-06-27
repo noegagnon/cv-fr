@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Noémie Gagnon
-    tagline: Développeuse
+    tagline: Développeuse Full Stack
     avatar: udem.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,7 +44,6 @@ education:
       university: Université de Montréal
       time: 2019 - 2020
       details: |
-          - Obtention d'une Mention d'excellence
 
     - degree: Certificats de cours en ligne
       university: freeCodeCamp et Udemy
@@ -77,17 +76,17 @@ education:
       details: |
 
 experiences:
-    - role: Développeuse full stack
+    - role: Développeuse Full Stack
       time: 2021 - 2022
       company: Expedibox
       details: |
 
-    - role: Développeuse full stack
+    - role: Développeuse Full Stack
       time: 2020 - 2021
       company: Eckinox
       details: |
 
-    - role: Traductrice (anglais au français)
+    - role: Traductrice
       time: 2019 - Present
       company: Airfill
       details: |
@@ -97,24 +96,9 @@ experiences:
       company: Appen
       details: |
 
-    - role: Stagiaire
+    - role: Stagiaire analyste
       time: 2019
-      company: Gendarmerie Royale du Canada (GRC), Unité mixte d'enquête sur le crime organisé
-      details: |
-
-    - role: Commis à la numérisation
-      time: 2016
-      company: Groupe TACT
-      details: |
-
-    - role: Réceptionniste
-      time: 2015
-      company: Camping Atlantide
-      details: |
-
-    - role: Téléphoniste
-      time: 2013-2014
-      company: Pizzeria Milano
+      company: Gendarmerie Royale du Canada
       details: |
 
 projects:
@@ -156,13 +140,13 @@ skills:
       - name: PHP
         level: 80%
 
-      - name: Symfony
-        level: 80%
-
       - name: Git
         level: 90%
 
       - name: JavaScript
+        level: 70%
+      
+      - name: Node.js
         level: 70%
 
       - name: HTML5 & CSS
@@ -170,6 +154,3 @@ skills:
   
       - name: SQL
         level: 65%
-
-      - name: Node.js
-        level: 60%
