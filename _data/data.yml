@@ -52,7 +52,7 @@ education:
           - <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-cbd88da2-f141-467c-9f1c-ae42b90f62b8.jpg" target="_blank">GIT: Advanced commands</a> 
           - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design</a> 
           - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures</a>
-          - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/apis-and-microservices" target="_blank">APIs and Microservices</a>
+          - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/apis-and-microservices" target="_blank">Back End Development and APIs</a>
 
 
     - degree: Études de deuxième cycle en criminologie
@@ -112,7 +112,7 @@ projects:
       - title: Caculatrice (React)
         link: "https://codepen.io/noegag/full/ZEWKqjB"
         
-      - title: Projets APIs et microservices
+      - title: Projets APIs
         link: "https://codepen.io/noegag/full/xxVOPpq"
 
       - title: Générateur de citations
